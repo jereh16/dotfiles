@@ -1,0 +1,1 @@
+/Users/jens/.config/fisherman/simple/functions/fish_prompt.fish

@@ -1,0 +1,1 @@
+/Users/jens/.config/fisherman/autojump/conf.d/autojump.fish

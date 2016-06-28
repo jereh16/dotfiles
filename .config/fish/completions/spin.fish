@@ -1,0 +1,1 @@
+/Users/jens/.config/fisherman/spin/completions/spin.fish

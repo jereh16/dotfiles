@@ -1,0 +1,1 @@
+/Users/jens/.config/fisherman/gitignore/gitignore.fish
